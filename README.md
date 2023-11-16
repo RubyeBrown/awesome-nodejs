@@ -14,7 +14,7 @@
 
 [English](./README-en.md) | 简体中文
 
-## 目录
+!# 目录
 
 - [目录](#目录)
 - [官方资源](#官方资源)
@@ -148,7 +148,7 @@
 
 #### 免费教程
 
-- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md) - Node.js 最佳体验列表。 ![](https://img.shields.io/github/stars/goldbergyoni/nodebestpractices.svg?style=social&label=Star)
+- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md) - Node.js 最佳体验列表。 *[](https://img.shields.io/github/stars/goldbergyoni/nodebestpractices.svg?style=social&label=Star)
 - [Nodejs 包教不包会](https://github.com/alsotang/node-lessons) - 经典 Nodejs 教程。 ![](https://img.shields.io/github/stars/alsotang/node-lessons.svg?style=social&label=Star)
 - [Nodejs 技术栈](https://www.nodejs.red/) - 包含很多 nodejs 相关文章。
 - [七天学会 NodeJS](http://nqdeng.github.io/7-days-nodejs/) - 经典 Nodejs 教程。 ![](https://img.shields.io/github/stars/nqdeng/7-days-nodejs.svg?style=social&label=Star)
@@ -1578,3 +1578,4 @@
 - [opensumi](https://github.com/opensumi/core) - 🚀 一个帮助你快速构建云或客户端IDE产品的框架 ![](https://img.shields.io/github/stars/opensumi/core.svg?style=social&label=Star)
 
 <img src="https://profile-counter.glitch.me/huaize2020-awesome-nodejs/count.svg" />
+ 
